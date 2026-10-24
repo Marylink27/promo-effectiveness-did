@@ -1,0 +1,5 @@
+promo_id,max_abs_pre_effect,joint_p_value,parallel_trends_ok
+P1-1,0.0587,0.3441,True
+P2-1,0.0168,0.9959,True
+P3-1,0.0342,0.6904,True
+P4-1,0.1732,0.0764,True
